@@ -9,5 +9,7 @@ npm-debug.*
 *.orig.*
 web-build/
 
+News.js
+/Tabs/Api.js
 # macOS
 .DS_Store
